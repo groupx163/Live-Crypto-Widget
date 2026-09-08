@@ -46,4 +46,4 @@ Make sure you have Python 3.8+ installed on your system.
 
 ## 👨‍💻 Author
 **Mohammad Taha Zaimi**
-* GitHub: [@TahaZaimi](https://github.com/TahaZaimi)
+* GitHub: [@TahaZaimi](https://github.com/groupx163)
