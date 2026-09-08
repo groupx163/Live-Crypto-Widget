@@ -45,5 +45,5 @@ Make sure you have Python 3.8+ installed on your system.
 * **Wallex API** - Real-time cryptocurrency market data
 
 ## 👨‍💻 Author
-**Mohammad Taha Zaimi**
-* GitHub: [@TahaZaimi](https://github.com/groupx163)
+**groupx**
+* GitHub: [@groupx163](https://github.com/groupx163)
